@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+div{
+    border: gray solid thin;
+}
+
+.nav-bar{
+    display: flex;
+    flex-direction: row;
+}
+
+.contact-form{
+
+}
